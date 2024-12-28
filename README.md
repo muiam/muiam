@@ -52,7 +52,7 @@ while (isAwake) {
 <h3 align="center">xfund crowdfunding app</h3>
 <div align="center">  
 <a href="#" target="_blank">
-<img src="Screenshot 2024-12-27 175317.png" width="50%" alt="xfund crowdfunding app"/>
+<img src="252316446-aadb5425-c420-4ee4-b8a0-843afdf2488e.png" width="50%" alt="xfund crowdfunding app"/>
 </a>
 <br>
 <br>
